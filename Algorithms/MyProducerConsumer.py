@@ -40,7 +40,7 @@ def consumer():  #Função que cria um consumidor;
       producer()
 
 
-while True:
+while True: #Inicializa as funções com um sleep de 1 segundo para melhorar a visualização do processo.
   producer()
   consumer()
   sleep(1)
