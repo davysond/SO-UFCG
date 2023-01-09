@@ -1,7 +1,5 @@
-﻿namespace C_SCAN
-{
-    using System;
-    using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
     class C_SCANalgorithm
     {
@@ -101,4 +99,3 @@
             CSCAN(array, head);
         }
     }
-}

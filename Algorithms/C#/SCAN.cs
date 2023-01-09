@@ -1,7 +1,5 @@
-﻿namespace SCAN
-{
-    using System;
-    using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
     class SCANalgorithm
     {
@@ -101,4 +99,3 @@
             SCAN(array, head, direction);
         }
     }
-}
